@@ -1,0 +1,7 @@
+Link al Report:
+
+https://lookerstudio.google.com/s/jzVaP41xRbM
+
+Note sui dati:
+I concorrenti sono valutati come entità divise a sè stanti nel caso in cui partecipano insieme ad altri interpreti
+	(Concorrente1, Concorrente2, Concorrente1-Concorrente2, etc)
